@@ -1,0 +1,4 @@
+multibranch_pipleline/developer
+multibranch_pipleline_developer
+multibranch_pipleline/master
+multibranch_pipleline_master
